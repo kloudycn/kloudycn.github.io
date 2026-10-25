@@ -1,0 +1,1 @@
+import{K as e,W as t,d as n,et as r,i,p as a,y as o,z as s}from"./CsHuueWu.js";import{t as c}from"./BDNMzG2s.js";var l={},u={class:`games`};function d(c,l){let d=t(`router-view`);return s(),a(`div`,u,[o(d,null,{default:r(({Component:t})=>[(s(),n(i,null,[(s(),n(e(t)))],1024))]),_:1})])}var f=c(l,[[`render`,d]]);export{f as default};

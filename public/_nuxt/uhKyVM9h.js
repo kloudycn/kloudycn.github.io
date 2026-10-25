@@ -1,0 +1,1 @@
+import{U as e,p as t,z as n}from"./CsHuueWu.js";import{t as r}from"./BDNMzG2s.js";var i={},a={class:`KDescriptionList`};function o(r,i){return n(),t(`dl`,a,[e(r.$slots,`default`,{},void 0,!0)])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-83a38847`]]);export{s as t};

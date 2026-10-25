@@ -1,0 +1,1 @@
+import{W as e,d as t,x as n,z as r}from"./CsHuueWu.js";var i=n({__name:`index`,setup(n){return(n,i)=>{let a=e(`router-view`);return r(),t(a)}}});export{i as default};

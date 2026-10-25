@@ -1,0 +1,1 @@
+import{W as e,d as t,z as n}from"./CsHuueWu.js";import{t as r}from"./BDNMzG2s.js";var i={};function a(r,i){let a=e(`RouterView`);return n(),t(a)}var o=r(i,[[`render`,a]]);export{o as default};

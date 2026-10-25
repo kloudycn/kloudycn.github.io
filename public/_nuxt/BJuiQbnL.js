@@ -1,0 +1,1 @@
+var e=function(e){return e.Public=`public`,e.Admin=`admin`,e.User=`user`,e.Agent=`agent`,e.System=`system`,e.Guest=`guest`,e.Temp=`temp`,e.Person=`person`,e.Group=`group`,e.Virtual=`virtual`,e.VirtualGroup=`virtual_group`,e}({}),t=function(e){return e.Private=`private`,e.OnlyById=`only_by_id`,e.VisibleInList=`visible_in_list`,e}({});export{e as n,t};

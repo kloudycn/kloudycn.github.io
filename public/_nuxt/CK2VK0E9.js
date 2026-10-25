@@ -1,0 +1,1 @@
+var e=`public`;function t(e){return e.split(`/`).map(e=>encodeURIComponent(e)).join(`/`)}function n(e){return!e||e===`root`?`/wiki/entries/root`:`/wiki/entries/${t(e)}`}function r(e){return`wiki/entries/${e||`root`}`}function i(e){return e?`/wiki/edit-entries/${t(e)}`:`/wiki/edit-entries`}export{n as i,i as n,r,e as t};

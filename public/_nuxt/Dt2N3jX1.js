@@ -1,0 +1,1 @@
+import{i as e}from"./C5CgijEN.js";function t(){let t=e(window.navigator.language);return t&&[`zh-Hans`,`zh-Hant`,`ja`,`en`].includes(t)?t:``}export{t};

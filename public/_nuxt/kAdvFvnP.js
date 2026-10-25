@@ -1,0 +1,1 @@
+function e(e,t){return e&&/^[A-Z0-9]{9}$/.test(e)?`/archive/music/audios/${e}`:`/archive/music/audios`}export{e as t};

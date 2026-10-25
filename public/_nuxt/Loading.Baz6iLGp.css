@@ -1,0 +1,1 @@
+.loading_animation{fill:none;stroke:var(--text-light-color-opaque)}.loading_animation .loading_track{stroke:var(--border-light-color-opaque)}.loading_animation{animation:loading_rotate 2.5s linear infinite both}@keyframes loading_rotate{0%{transform:rotate(0)}to{transform:rotate(1turn)}}

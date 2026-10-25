@@ -1,0 +1,1 @@
+.FPS{position:fixed;z-index:9999;right:10px;bottom:10px;display:flex;flex-direction:column;align-items:flex-end;opacity:.6;border-radius:6px;background-color:var(--border-light-color);padding:6px 10px;pointer-events:none}.FPS h3{font-size:14px}.FPS h4{font-size:12px}.FPS p{font-size:10px}#settings_box{width:600px}

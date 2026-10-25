@@ -1,0 +1,2 @@
+import{p as e,u as t,z as n}from"./CsHuueWu.js";import{t as r}from"./BDNMzG2s.js";var i={},a={width:`48`,height:`48`,viewBox:`0 0 48 48`,xmlns:`http://www.w3.org/2000/svg`};function o(r,i){return n(),e(`svg`,a,[...i[0]||=[t(`circle`,{cx:`24`,cy:`8.2`,r:`3.8`},null,-1),t(`path`,{d:`M30,37h-3.2V18c0-1.1-0.9-2-2-2h-3c-1.1,0-2,0.9-2,2s0.9,2,2,2h1v17h-3.2c-1.1,0-2,0.9-2,2s0.9,2,2,2H30
+		c1.1,0,2-0.9,2-2S31.1,37,30,37z`},null,-1)]])}var s=r(i,[[`render`,o]]);export{s as t};

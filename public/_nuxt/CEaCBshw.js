@@ -1,0 +1,4 @@
+function e(e){let t=e.split(`:`),n=t[0],r=t[1],i=Math.round((n*60+r*1)*1e3);return t.length==3&&(i+=t[2]*10),i}function t(t,n,r){let i=new Map;n&&n.split(`
+`).forEach(t=>{let n=e(t.substring(t.indexOf(`[`)+1,t.indexOf(`]`))),r=t.substring(t.indexOf(`]`)+1);i.set(n,r)});let a=new Map;r&&r.split(`
+`).forEach(t=>{let n=e(t.substring(t.indexOf(`[`)+1,t.indexOf(`]`))),r=t.substring(t.indexOf(`]`)+1);a.set(n,r)});let o=[];return t.split(`
+`).forEach(t=>{let n=t.trim(),r=[];for(;n.indexOf(`[`)==0&&n.indexOf(`]`)>=0;){let t=e(n.substring(n.indexOf(`[`)+1,n.indexOf(`]`)));r.push(t),n=n.substring(n.indexOf(`]`)+1).trim()}r.forEach(e=>{if(!Object.is(e,NaN)){let t={time:e/1e3,text:n,translate:i.get(r[0]),roma:a.get(r[0])};o.push(t)}})}),o.sort((e,t)=>e.time-t.time),o}export{t};

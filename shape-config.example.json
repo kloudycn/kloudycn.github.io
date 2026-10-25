@@ -1,0 +1,7 @@
+{
+  "apiXUrl": "/api-x",
+  "apiGUrl": "/api-g",
+  "staticUrl": "/static",
+  "siteUrl": "https://shape.example.com",
+  "oauthResource": ""
+}

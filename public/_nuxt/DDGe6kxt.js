@@ -1,0 +1,1 @@
+import{Mn as e}from"#entry";function t(t){return e(t)||t?.[`zh-Hans`]||``}export{t};

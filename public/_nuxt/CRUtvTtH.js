@@ -1,0 +1,1 @@
+import{n as e}from"./BJuiQbnL.js";var t=new Set([e.User,e.Admin,e.Agent]);function n(e){return!!(e?.characterType&&t.has(e.characterType))}function r(e){return!!(e?.characterType&&[`user`,`admin`,`agent`,`guest`].includes(e.characterType))}export{n,r as t};
