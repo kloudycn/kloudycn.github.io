@@ -20,14 +20,13 @@ pnpm build:static
 ```gitignore
 .release-archives/
 .release-staging/
-shape-config.json
 *.log
 .DS_Store
 ```
 
 ## 每台服务器的配置
 
-`shape-config.json` 是独立公开配置文件。首次同步自动从 `shape-config.example.json` 创建；之后同步保留已有文件内容。配置不进入静态仓库 Git，服务器首次部署时从示例创建。示例域名必须替换为实际站点，里面只能放公开地址。
+`shape-config.json` 是独立公开配置文件。首次同步自动从 `shape-config.example.json` 创建；之后同步保留已有文件内容。当前静态仓库将 GitHub Pages 使用的正式公开配置提交到 Git。API-X、API-G、媒体和 OAuth Resource 指向 `https://shape.kloudy.cn`，`siteUrl` 指向 `https://kloudycn.github.io`。配置只能包含公开地址；其他服务器可修改各自的独立文件，重复构建仍保留文件内容。示例保留通用格式。
 
 ```json
 {
@@ -44,6 +43,14 @@ shape-config.json
 - `oauthResource`：OAuth Resource 地址；不用时保留空字符串。
 
 浏览器启动时用 `cache: no-store` 读取配置，加载并校验成功后才初始化设备、会话和业务请求。缺失、HTTP 失败、非 JSON 或字段不合法会显示配置错误，不静默退回构建机配置。修改后刷新页面生效，不需要重新打包。SSR 模式继续使用原有 `NUXT_*` 环境变量，不读取这个文件。纯静态服务器设置 `NUXT_*` 不会改变既有静态包配置。
+
+## GitHub Pages 分支发布
+
+当前采用 `main` 分支、仓库根目录发布，不配置自定义 Actions 工作流。根目录的 `.nojekyll` 与公开 `shape-config.json` 均进入 Git；复制脚本保留现有配置，构建不会覆盖它。
+
+由管理员在仓库 Settings → Pages 将 Source 设为 Deploy from a branch，Branch 选择 main，Folder 选择 / (root)。这些是 GitHub 远端设置，提交代码不能代替设置或证明远端已生效。用户自行执行 `git push github main`，GitHub 托管的 Pages 构建会自动发布；无需创建自定义 Actions YAML。
+
+GitHub Pages 没有同域 API 代理；API-X/API-G 使用正式 HTTPS 完整地址，后端必须允许 `https://kloudycn.github.io` Origin、自定义鉴权头及携带凭据。配置已提供 OAuth Resource 地址，但真实 OAuth 与跨站会话仍需单独验收。深链接可能通过已有 `404.html` 客户端回退加载，并保留 HTTP 404 状态；Pages 无法像 Nginx 一样配置通用 200 路由重写。
 
 ## 静态托管
 

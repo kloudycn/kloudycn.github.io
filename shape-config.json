@@ -1,0 +1,7 @@
+{
+  "apiXUrl": "https://shape.kloudy.cn/api-x",
+  "apiGUrl": "https://shape.kloudy.cn/api-g",
+  "staticUrl": "https://shape.kloudy.cn/static",
+  "siteUrl": "https://kloudycn.github.io",
+  "oauthResource": "https://shape.kloudy.cn/mcp"
+}

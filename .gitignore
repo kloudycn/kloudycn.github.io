@@ -1,5 +1,4 @@
 .release-archives/
 .release-staging/
-/shape-config.json
 *.log
 .DS_Store
