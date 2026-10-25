@@ -1,1 +1,0 @@
-import{n as e,t}from"./CwTJ0V02.js";async function n(n,r){let i=await e(t.GET,n,{query:r});return i.success?i.data:null}async function r(t,n,r){let i=await e(t,n,{body:r});return i.success?i.data:null}export{r as n,n as t};

@@ -1,6 +1,6 @@
 # Kloudy Shape 纯静态发布产物
 
-适用源码版本 0.1.5 的双模式构建。`kloudy-shape-ssr-static-dist` 是独立静态制品仓库；发布项目根目录直接作为网站根目录。不需要安装依赖或运行 Node；API-X/API-G、媒体服务和 WebSocket 仍由独立服务提供。
+适用源码版本 0.1.6 的双模式构建。`kloudy-shape-ssr-static-dist` 是独立静态制品仓库；发布项目根目录直接作为网站根目录。不需要安装依赖或运行 Node；API-X/API-G、媒体服务和 WebSocket 仍由独立服务提供。
 
 ## 构建与同步
 

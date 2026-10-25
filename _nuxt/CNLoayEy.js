@@ -1,1 +1,0 @@
-import{r as e}from"./ByW63zS7.js";var t={"zh-Hans":`简体中文`,"zh-Hant":`繁體中文`,get en(){return e(`英语`)},get ja(){return e(`日语`)},get ko(){return e(`韩语`)}};export{t};

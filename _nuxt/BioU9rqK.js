@@ -1,0 +1,1 @@
+import{F as e,M as t}from"./CsHuueWu.js";import{b as n,y as r}from"./BsSN3OO3.js";import{r as i}from"./DBBUYB33.js";function a(a){let o=()=>!a()||window.confirm(i(`当前页面有尚未保存的修改，离开后这些修改将丢失。是否继续离开？`)),s=e=>{a()&&(e.preventDefault(),e.returnValue=``)};r(o),n(o),e(()=>window.addEventListener(`beforeunload`,s)),t(()=>window.removeEventListener(`beforeunload`,s))}export{a as t};
