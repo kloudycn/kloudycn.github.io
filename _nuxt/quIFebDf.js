@@ -1,0 +1,1 @@
+import{p as e,y as t,z as n}from"./CsHuueWu.js";import{t as r}from"./DQfAp_fz.js";import{t as i}from"./CUvloNGI.js";var a={class:`content`},o={__name:`categories`,setup(o){return(o,s)=>(n(),e(`div`,a,[t(r,{title:o.$text(`nav.blog.categories`),parent:{title:o.$text(`nav.blog`),link:`/blog`}},null,8,[`title`,`parent`]),t(i)]))}};export{o as default};

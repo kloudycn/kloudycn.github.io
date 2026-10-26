@@ -1,1 +1,0 @@
-import{n as e,t}from"./Cca4ngFt.js";var n=(n,r)=>e(t.GET,`/resources/admin/content`,{query:{resourceType:n,resourceId:r}}),r=n=>e(t.PUT,`/resources/admin/content`,{body:n});export{r as n,n as t};

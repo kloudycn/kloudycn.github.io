@@ -1,1 +1,0 @@
-import{p as e,y as t,z as n}from"./CsHuueWu.js";import{t as r}from"./CuGJYTRc.js";var i={class:`content shake_part`},a={__name:`shake`,setup(a){return(a,o)=>(n(),e(`div`,i,[t(r,{title:a.$uiText(`抖动动画`),parent:{title:a.$text(`nav.laboratory`),link:`/laboratory`},intro:a.$uiText(`把鼠标放在这个标题上面，这个标题会抖动一次`)},null,8,[`title`,`parent`,`intro`])]))}};export{a as default};

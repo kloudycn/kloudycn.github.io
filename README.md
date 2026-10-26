@@ -78,3 +78,5 @@ location / { try_files $uri $uri/ /index.html; }
 本地双模式构建、HTTP 与内存夹具浏览器验证记录在工作区 `plans/active/shape-dual-build/metadata.json`。本地制品同步和 Git 提交不代表部署；真实身份、跨域 Cookie、OAuth 和真实写操作仍须在目标环境验收。
 
 本地验证入口：先构建两种产物，再运行 `pnpm test`、`pnpm type-check`。仅检查配置及同步可运行 `node --test tests/static-build.test.mjs tests/publish-dist.test.mjs`。`node tests/static-preview.mjs` 在 `127.0.0.1:3208` 提供静态制品及内存 API 夹具；配置错误页复用 KPlaceholder，配置失败时停止会话和业务页面启动。
+
+当前本地发布目标为0.1.7，与SSR源码版本一致；配套API-X 0.3.3。构建和同步不代表已部署。

@@ -1,0 +1,1 @@
+import{p as e,y as t,z as n}from"./CsHuueWu.js";import{t as r}from"./DQfAp_fz.js";import{t as i}from"./BsWCY_2D.js";var a={class:`content`},o={__name:`articles`,setup(o){return(o,s)=>(n(),e(`div`,a,[t(r,{title:o.$text(`nav.blog.articles`),parent:{title:o.$text(`nav.blog`),link:`/blog`}},null,8,[`title`,`parent`]),t(i)]))}};export{o as default};
