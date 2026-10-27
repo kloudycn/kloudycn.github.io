@@ -1,0 +1,87 @@
+{
+  "retrievedAt": "2026-10-27T02:40:20.835285+00:00",
+  "ownership": "Game icons and logos belong to the respective rights holders; not covered by the application software license.",
+  "files": {
+    "maimai.png": {
+      "source": "https://maimai.sega.jp/touchIcon.png",
+      "sha256": "6479ac090e79ff3802c8fc5f34b908236a4213406ec01ab568a15d0707eb085a",
+      "bytes": 129573
+    },
+    "chunithm.jpg": {
+      "source": "https://chunithm.sega.jp/$site/images/touchicon.jpg",
+      "sha256": "899bbe00bb8f8cb8fa0dfcaf8b3bac83fe5425d81b6dbf715e0edf3b99cf03c5",
+      "bytes": 48422
+    },
+    "ongeki.webp": {
+      "source": "https://ongeki.sega.jp/assets/img/common/logo_main.webp",
+      "sha256": "804d97c39993f62ba914ee53bc8fdcf918b885564f6ef7de9e61c2adee55f69c",
+      "bytes": 64840
+    },
+    "pjsekai.webp": {
+      "source": "https://pjsekai.sega.jp/assets/data/webp/icon/icon_app.png.webp",
+      "sha256": "a2c83532e9e3314b00e9f26d126be75f98734f03d90c2aed7bbaba8552c44183",
+      "bytes": 49166
+    },
+    "arcaea.png": {
+      "source": "https://arcaea.lowiro.com/icon/android-icon-192x192.png",
+      "sha256": "06400ea65d9992ea7335e63f5cf54af683c08932c116fd7124e2d592c2b6c1a3",
+      "bytes": 20266
+    },
+    "musedash.ico": {
+      "source": "https://musedash.peropero.net/favicon.ico",
+      "sha256": "7e659c978291b58712fce106b4ca52dbe06e80193197e8c8dc6a24b4328a862d",
+      "bytes": 16958
+    },
+    "bangdream-gbp.jpg": {
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/66/63/19666357-eacf-072d-d86f-a46bb2355559/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "storePage": "https://apps.apple.com/us/app/bang-dream-girls-band-party/id1335529760?uo=4",
+      "appId": 1335529760,
+      "appName": "BanG Dream! Girls Band Party!",
+      "publisher": "Bushiroad International",
+      "retrievedAt": "2026-10-27T07:28:04.909683+00:00",
+      "sha256": "d651bccb70d27e5a46b58360565e56b44f416d4aa83f4bf204b7967af03d66f4",
+      "bytes": 99579
+    },
+    "bangdream-our-notes.jpg": {
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/2f/f8/bc2ff85a-de69-5c91-ff3b-a95a75f1682a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "storePage": "https://apps.apple.com/us/app/bang-dream-our-notes/id6757695187?uo=4",
+      "appId": 6757695187,
+      "appName": "BanG Dream! Our Notes",
+      "publisher": "BILIBILI HK LIMITED",
+      "retrievedAt": "2026-10-27T07:28:04.909683+00:00",
+      "sha256": "0a2cd5c12447a2c388ec6821391067c568d8bcb2be82801fa575505aa809f121",
+      "bytes": 97971
+    },
+    "phigros.jpg": {
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a7/e9/a8a7e96a-e8b3-30d8-4e11-c93fe41e193d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "storePage": "https://apps.apple.com/us/app/phigros/id1454809109?uo=4",
+      "appId": 1454809109,
+      "appName": "Phigros",
+      "publisher": "Xiamen Pigeon Games Network Co., Ltd.",
+      "retrievedAt": "2026-10-27T07:28:04.909683+00:00",
+      "sha256": "2555b913fc6280e312192198c5eb7fcdb9d7629203e55574314c36887350d313",
+      "bytes": 125544
+    },
+    "project-diva-aft.jpg": {
+      "source": "https://gw.sega.jp/gateway/games/image/item/arcade_029.jpg",
+      "website": "https://gw.sega.jp/gateway/games/arcade/index.html",
+      "retrievedAt": "2026-10-27T07:44:36.521262+00:00",
+      "sha256": "05921e88043516c805695bd82bb1cbddd1c17d812b48cb032b063180cf8650c2",
+      "bytes": 78371
+    },
+    "djmax-respect-v.jpg": {
+      "source": "https://shared.akamai.steamstatic.com/community_assets/images/apps/960170/52d095b3a62f3add88003a24b53083e1444fe8e8.jpg",
+      "website": "https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/",
+      "retrievedAt": "2026-10-27T07:44:37.260360+00:00",
+      "sha256": "744f038fbc893eaec4d146145b9c132654f2c33314667ac4de09ab217ecc5afb",
+      "bytes": 815
+    },
+    "rotaeno.png": {
+      "source": "https://static.wixstatic.com/media/50bdcd_bcd1f17505d04feeafb67269fb4914e2%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/50bdcd_bcd1f17505d04feeafb67269fb4914e2%7Emv2.png",
+      "website": "https://www.rotaeno.com/",
+      "retrievedAt": "2026-10-27T07:44:38.217193+00:00",
+      "sha256": "9562642a45686781e7fe7bfed7e2d2104110f74a54840d522bafaf98f6ef45e4",
+      "bytes": 81329
+    }
+  }
+}

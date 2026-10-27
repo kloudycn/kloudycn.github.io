@@ -1,1 +1,0 @@
-import{p as e,x as t,y as n,z as r}from"./CsHuueWu.js";import{t as i}from"./IoW3eDxS.js";var a={class:`admin_comments_page`},o=t({__name:`comments`,setup(t){return(t,o)=>(r(),e(`div`,a,[n(i,{scope:`all`})]))}});export{o as default};

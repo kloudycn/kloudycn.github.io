@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "snapshotDate": "2026-10-27",
+  "catalogs": [
+    {
+      "game": "chunithm",
+      "region": "jp",
+      "file": "chunithm-jp.json",
+      "tracks": 1763,
+      "charts": 6961,
+      "sha256": "cad14803a914a4bc2ab558b57afbe3cc51775387328378a50cbca3c980b63126"
+    },
+    {
+      "game": "chunithm",
+      "region": "intl",
+      "file": "chunithm-intl.json",
+      "tracks": 1652,
+      "charts": 6531,
+      "sha256": "f449d452275a4d0dfcfd5c9953383a6b8978954fec40c525e444744ff2236f62"
+    },
+    {
+      "game": "ongeki",
+      "region": "jp",
+      "file": "ongeki-jp.json",
+      "tracks": 1112,
+      "charts": 4208,
+      "sha256": "0edee986e8e5c75baea91ffb30bfd0e03372c3f22bc81254c988fdfba3a4c44d"
+    },
+    {
+      "game": "pjsekai",
+      "region": "jp",
+      "file": "pjsekai-jp.json",
+      "tracks": 737,
+      "charts": 3820,
+      "sha256": "cbef8481544f5c2bc92fc90bbf5ea79387d101e63f6ffe3d66ba855746e67fea"
+    },
+    {
+      "game": "pjsekai",
+      "region": "en",
+      "file": "pjsekai-en.json",
+      "tracks": 649,
+      "charts": 3348,
+      "sha256": "71f750eb88ca5c78c8657b0734fbf859d630bba54d79186623acdf6f068c06a5"
+    },
+    {
+      "game": "pjsekai",
+      "region": "tc",
+      "file": "pjsekai-tc.json",
+      "tracks": 651,
+      "charts": 3361,
+      "sha256": "e939b276ae1b8c955b74d3be18e8b11ea6ec58a0d08acdad47b7cd93034a46a9"
+    },
+    {
+      "game": "pjsekai",
+      "region": "kr",
+      "file": "pjsekai-kr.json",
+      "tracks": 660,
+      "charts": 3419,
+      "sha256": "e79cb0a6ba6a5fd45816f41e0419d563979392175be56873d4e718b4eabf5120"
+    },
+    {
+      "game": "arcaea",
+      "region": "global",
+      "file": "arcaea-global.json",
+      "tracks": 554,
+      "charts": 1837,
+      "sha256": "9fe27d1fdf986bb67710d55138c6722b4f8533ea58b1d19e711d40403e25466a"
+    },
+    {
+      "game": "musedash",
+      "region": "global",
+      "file": "musedash-global.json",
+      "tracks": 750,
+      "charts": 2375,
+      "sha256": "6129b0d1001f13007df414b4a5445ddc4efc72123190837e059818c605b5e25d"
+    },
+    {
+      "game": "bangdream-gbp",
+      "region": "jp",
+      "file": "bangdream-gbp-jp.json",
+      "tracks": 814,
+      "charts": 3390,
+      "sha256": "ba3f87c07a192c6cccd19b92ada241f9ed0671a2a5be8443ce69b9d37a65ed2f"
+    },
+    {
+      "game": "bangdream-gbp",
+      "region": "en",
+      "file": "bangdream-gbp-en.json",
+      "tracks": 743,
+      "charts": 3093,
+      "sha256": "f83616ceb6e83c11d0fb267670ab077dbc19f9098b768827fdafda4d2e303154"
+    },
+    {
+      "game": "bangdream-gbp",
+      "region": "tc",
+      "file": "bangdream-gbp-tc.json",
+      "tracks": 736,
+      "charts": 3031,
+      "sha256": "325e11bbb1eff922d0c68319a294aec0f3c39aff5a2c403f770e61bdfde56d42"
+    },
+    {
+      "game": "bangdream-gbp",
+      "region": "cn",
+      "file": "bangdream-gbp-cn.json",
+      "tracks": 764,
+      "charts": 3186,
+      "sha256": "17e2840350be06e87f9ef0f8eac68e79a7e2325e55fb97a787af44281c878c10"
+    },
+    {
+      "game": "bangdream-gbp",
+      "region": "kr",
+      "file": "bangdream-gbp-kr.json",
+      "tracks": 442,
+      "charts": 1860,
+      "sha256": "569e50be765e88ebf50dbb4392d53e7ad64e135893b9ba18b443ba5a3fa0d817"
+    },
+    {
+      "game": "bangdream-our-notes",
+      "region": "jp",
+      "file": "bangdream-our-notes-jp.json",
+      "tracks": 90,
+      "charts": 360,
+      "sha256": "4c05061f87a64144815ebad0f878b4ab3b4dd22bde54dfb26222eae8ae296a6e"
+    },
+    {
+      "game": "bangdream-our-notes",
+      "region": "tc",
+      "file": "bangdream-our-notes-tc.json",
+      "tracks": 91,
+      "charts": 364,
+      "sha256": "57c65647b776234979e3ea8785c05a232b5fd33ad93d76f2341e570a1ad8d8fe"
+    },
+    {
+      "game": "bangdream-our-notes",
+      "region": "kr",
+      "file": "bangdream-our-notes-kr.json",
+      "tracks": 91,
+      "charts": 364,
+      "sha256": "7fc71f23715abb7ef569f02ffd495c83089d83d160271bed14a2d6c0829b011b"
+    },
+    {
+      "game": "bangdream-our-notes",
+      "region": "en",
+      "file": "bangdream-our-notes-en.json",
+      "tracks": 91,
+      "charts": 364,
+      "sha256": "a39279331f8a538b56ee610fadcf5057339f6cceb6699c436c6a6397e9f2c07c"
+    },
+    {
+      "game": "phigros",
+      "region": "global",
+      "file": "phigros-global.json",
+      "tracks": 327,
+      "charts": 1037,
+      "sha256": "e9a8e18690a2a1eb8c2e8ced04dbd9621f929a0ea7fd8b196ceeec71e98cd09b"
+    },
+    {
+      "game": "project-diva-aft",
+      "region": "jp",
+      "file": "project-diva-aft-jp.json",
+      "tracks": 240,
+      "charts": 998,
+      "sha256": "cd17ead44d951a4501394cf3cd7d11077acc72c38a0795f0d16c726f6fb16f58"
+    },
+    {
+      "game": "djmax-respect-v",
+      "region": "global",
+      "file": "djmax-respect-v-global.json",
+      "tracks": 846,
+      "charts": 12468,
+      "sha256": "0e88b437a31736d6c525bb0baa24e38b153c49bf98ef453b8cbdad3666bb9ccc"
+    },
+    {
+      "game": "rotaeno",
+      "region": "global",
+      "file": "rotaeno-global.json",
+      "tracks": 346,
+      "charts": 1407,
+      "sha256": "83f92f4081c7879396c899b0226329bf73c2385637dde4283861123b7dc98944"
+    }
+  ],
+  "inputs": {
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/otoge/chunithm/data/music-ex.json": "58cdd37c1983a24d0f36c2de9d374b4564547894cbef747977622c38fd76c38d",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/official/chunithm-jp.json": "2245e5134b70f77eff6102103a9a4db43df4f32bd0fd3e5647e9b1e64bee8bcd",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/official/chunithm-intl.json": "9bd2ff7b8bc60a4aaf8ca90ccf62f11fe7d1f43dfc1769f33755679108aecff0",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/otoge/ongeki/data/music-ex.json": "8e5c72c1c9033cc81cab4880f592b048f8421ed1e082831d727d998dea96f4cf",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/official/ongeki.json": "9c58efe20246b9aadb5ffdd1c3eeacdf833ccd9424589d5f2913422f8e39d756",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-jp/musics.json": "c6b5db32b90983d0667c4450bfcd164fbb723f42012be88fc35819b7fee6db26",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-jp/musicDifficulties.json": "89dce554a4edcc070eca9fe5165b56975bf1551b93b679c626a5a2e87ba8b60a",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-jp/musicVocals.json": "6affdc20261182ef09194dd34bdd4133cb31b5190778e4ab1e8d4c57f2826157",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-jp/musicTags.json": "b43aedf9515393eb69b2375ca35820efe9fbbdcfb08aedd26edd9b185a3ce13f",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-en/musics.json": "1c127e1de3afd8dec10d09326a9758a7715aadb9001dc82acc28098d8a271e76",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-en/musicDifficulties.json": "2216f50b4ff53af503c561f6aed6f97bc87a404ee02a10ea9db5f44201090993",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-en/musicVocals.json": "ab5764f24ea462c578de9ed869324bd182acda6f40a17c0ef3c6d611e5763e96",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-en/musicTags.json": "900b4ae8f31f78e736118f0c1728ebebd5cbb15832e8dc98bd4aafaac6d85b44",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-tc/musics.json": "ebd7c77500e18d9b1983429960c6159a778a5da73bd7e55d0526c859fb06a188",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-tc/musicDifficulties.json": "afdf0ebdd6a15c8b8d0eb440c6790062da98aafeaccc0884c12313c3ec48e555",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-tc/musicVocals.json": "caabb3b2f6b5ac7b65215d9355598af0e9cc8cbcac75036a5d887d38a72be0de",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-tc/musicTags.json": "46881d7ed243b242f1d6fa7d5a6867c0f4ef3e36d7863ef07ef0c9a8be740740",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-kr/musics.json": "0b96beabf62041c9730629394af6f9a91bcce1d0d7a662fadfd2e827c66df9a1",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-kr/musicDifficulties.json": "8c00b08805915f79b1bd25315225228ee433a0481e756bd42655e26b165426f2",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-kr/musicVocals.json": "915d7efad68b33f2f8c7fe72e4c2dd3c159698f73b3396df2154b42fd7b36de0",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/sekai-kr/musicTags.json": "8d48027d7b9028b975f477e9b40c0c7818eb2f1b1908e4258f49df38fc8b8ecd",
+    "docs/operations/rhythm-game-data-20261027/arcaea-supplement-20261026T162135Z/public/data/songlist.json": "a0b07a185306fb3e9da4bbfaa17a1fea44d5cedc8712619e992b1c402b6319fa",
+    "docs/operations/rhythm-game-data-20261027/arcaea-supplement-20261026T162135Z/public/data/packlist.json": "f63592697b5325b5084e2b1f8d0829ce67ad8570b0b458fb164796c307b608b6",
+    "docs/operations/rhythm-game-data-20261027/arcaea-supplement-20261026T162135Z/public/data/ChartConstant.json": "f7673d9fca155ef5bb56f5c131ae636f0e9fef564d9c6d225b464e98d1154d26",
+    "docs/operations/rhythm-game-data-20261027/snapshot-20261026T162014Z/musedash/albums.json": "d39ab2420296e4598d793e032e483f342f35c0e941091888288fbca6f9304a82",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/bestdori/songs-all.8.json": "ec9b6c1b976049f8390cac5574a04e2695b5689a1e7ad4ad9ab5b73600c0305e",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/bestdori/bands-all.1.json": "b7739d0139d3ffd29bd872b774336c6428f24b51536bf9c1171481df84f97ea6",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/jp/MasterLiveMusic.json": "ab7d8fa2da4173679e2334de3b7ddc604c80a2f54f58e342cff297670819710a",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/jp/MasterLiveMusicScore.json": "abfb163742989075aa6fb1cbe4f54b29c565b77aedd2c8234cb915b0fcba35e1",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/jp/MasterText.json": "88e3493355299296b62e67111021be16974f970b7a03c46aa42048eb00d9a20f",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/jp/MasterBand.json": "c243de693d3b45105ffd1bb7a8b8f141773c6d66b6c3d3362f0fa2bd2792a82a",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/current_version.json": "24b91b876223a85a3b8d19abd39297c8ef943337454e012ea752111dc7454c41",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/tw/MasterLiveMusic.json": "6d45942fb874b0979f9bef52b6cd70f34d38f327f149c21e9ae3783ecd908973",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/tw/MasterLiveMusicScore.json": "4e11c83eb169bbef92f2977fe89c107c96f6fbd2606a58c06815430b8ab376be",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/tw/MasterText.json": "b76fd40def8ee3a7af821e23f9387a6e5ae79931ea91171dd9255c9a49cde716",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/tw/MasterBand.json": "c243de693d3b45105ffd1bb7a8b8f141773c6d66b6c3d3362f0fa2bd2792a82a",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/kr/MasterLiveMusic.json": "6d45942fb874b0979f9bef52b6cd70f34d38f327f149c21e9ae3783ecd908973",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/kr/MasterLiveMusicScore.json": "4e11c83eb169bbef92f2977fe89c107c96f6fbd2606a58c06815430b8ab376be",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/kr/MasterText.json": "b76fd40def8ee3a7af821e23f9387a6e5ae79931ea91171dd9255c9a49cde716",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/kr/MasterBand.json": "c243de693d3b45105ffd1bb7a8b8f141773c6d66b6c3d3362f0fa2bd2792a82a",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/en/MasterLiveMusic.json": "6d45942fb874b0979f9bef52b6cd70f34d38f327f149c21e9ae3783ecd908973",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/en/MasterLiveMusicScore.json": "4e11c83eb169bbef92f2977fe89c107c96f6fbd2606a58c06815430b8ab376be",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/en/MasterText.json": "b76fd40def8ee3a7af821e23f9387a6e5ae79931ea91171dd9255c9a49cde716",
+    "docs/operations/rhythm-game-expansion-20261027/ournotes-20261027T071614Z/en/MasterBand.json": "c243de693d3b45105ffd1bb7a8b8f141773c6d66b6c3d3362f0fa2bd2792a82a",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phigros/info.tsv": "de1624f0199307e5b4ebe4041635d60434f75009d74d2ba3ecb6934031e3202d",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phigros/difficulty.tsv": "280ef0ad427c8f097574db65e394ef6642ab61f12feb2ad413ffc3b48a59eff3",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phi-plugin/resources/info/info.csv": "67cb87ebeb0e278b0d0375d723173bb5a4d48f00a95d6d05c99b06b8777684f0",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phi-plugin/resources/info/infolist.json": "af2d7b5cc34c95cd2052360daa0ed33efb69bbc6c9ca8aba60b82a05a2e5250d",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phi-plugin/resources/info/notesInfo.json": "04a893749eab23f4e417962ca9d473f39c8ef5a482a7a8e83d86d46c2950e173",
+    "docs/operations/rhythm-game-expansion-20261027/snapshot-20261027T070637Z/phigros/version.txt": "9ef8c7750e1e1b90ae81bcff66a9f47cf91246ca100088256ddb0ac112f9948e",
+    "docs/operations/rhythm-game-wave3-20261027/snapshot-20261027T074107Z/diva.json": "68323b52458f84418e3697946a95a92aa870968de8bf8c9a46de82184c0b5df4",
+    "docs/operations/rhythm-game-wave3-20261027/snapshot-20261027T074107Z/djmax.json": "c74cac78fd51bf84c1c02126d909c813f67751af6fed5c4814f186d988d69cd2",
+    "docs/operations/rhythm-game-wave3-20261027/snapshot-20261027T074107Z/djmax-dlcs.json": "0fe3202b16574715f0a5d5a7fb7f5868666cfcdf77ed32b5ac228012701f3c7e",
+    "docs/operations/rhythm-game-wave3-20261027/snapshot-20261027T074107Z/rotaeno/data.json": "55acd70f402765d408961026727fce4458f57896731e942c5241da4ed10860ab"
+  }
+}

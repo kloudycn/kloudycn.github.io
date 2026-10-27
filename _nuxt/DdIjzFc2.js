@@ -1,0 +1,1 @@
+import{r as e}from"./B0Z9INg1.js";import{n as t,t as n}from"./DjLe2mcT.js";var r=e({getApiData:()=>i,sendApiData:()=>a});async function i(e,r){let i=await t(n.GET,e,{query:r});return i.success?i.data:null}async function a(e,n,r){let i=await t(e,n,{body:r});return i.success?i.data:null}export{r as n,a as r,i as t};
