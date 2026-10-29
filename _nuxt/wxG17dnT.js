@@ -1,1 +1,0 @@
-function e(e,t=globalThis.location?.href){if(!e)return null;try{let n=new URL(e,t||`https://internal.invalid/`),r=new URL(t||`https://internal.invalid/`).origin;return![`http:`,`https:`].includes(n.protocol)||n.origin!==r?null:n.pathname+n.search+n.hash}catch{return null}}var t=t=>e(t)!==null;export{t as n,e as t};

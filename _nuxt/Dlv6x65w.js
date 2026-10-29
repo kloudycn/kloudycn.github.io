@@ -1,0 +1,1 @@
+import{d as e,l as t,p as n,x as r,z as i}from"./CsHuueWu.js";import{h as a}from"./Drz7w4a7.js";import{t as o}from"./CGg4yTld.js";var s={class:`content`},c=r({__name:`class`,setup(r){let c=a(),l=t(()=>c.params.id);return(t,r)=>(i(),n(`div`,s,[(i(),e(o,{class_id:l.value,key:l.value},null,8,[`class_id`]))]))}});export{c as default};

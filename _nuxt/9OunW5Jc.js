@@ -1,1 +1,0 @@
-import{r as e}from"./A0DGkkz1.js";var t={"zh-Hans":`简体中文`,"zh-Hant":`繁體中文`,get en(){return e(`英语`)},get ja(){return e(`日语`)},get ko(){return e(`韩语`)}},n={"zh-Hans":`简体中文`,"zh-Hant":`繁體中文`,en:`English`,ja:`日本語`},r={"zh-Hans":`跟随系统（简体中文）`,"zh-Hant":`跟隨系統（繁體中文）`,en:`Follow system (English)`,ja:`システムに合わせる（日本語）`};export{t as n,r,n as t};

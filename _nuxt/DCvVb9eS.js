@@ -1,0 +1,1 @@
+import{d as e,x as t,z as n}from"./CsHuueWu.js";import{t as r}from"./BSBwvHE5.js";var i=t({__name:`menu`,setup(t){return(t,i)=>(n(),e(r,{class:`menu_placeholder`,empty:``,empty_icon:`Setting`}))}});export{i as default};
